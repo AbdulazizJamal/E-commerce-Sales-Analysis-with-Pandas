@@ -1,0 +1,121 @@
+order_id,customer_age,city,product,category,unit_price,quantity,payment_method,rating,total_sales
+ORD2001,27.0,Riyadh,Webcam,Accessories,103.4,3,Card,5.0,310.2
+ORD2002,57.0,Jeddah,Phone,Mobile,1156.62,5,Cash,1.0,5783.1
+ORD2003,65.0,Riyadh,Webcam,Accessories,51.65,5,Cash,1.0,258.25
+ORD2004,54.0,Jeddah,Tablet,Mobile,239.99,1,Cash,5.0,239.99
+ORD2005,64.0,Jeddah,Tablet,Mobile,816.38,2,Bank Transfer,3.0,1632.76
+ORD2006,65.0,Riyadh,Phone,Mobile,264.91,2,Cash,4.0,529.82
+ORD2007,56.0,Madinah,Laptop,Computers,1564.93,2,Cash,4.0,3129.86
+ORD2008,52.0,Jeddah,Mouse,Accessories,79.14,3,Cash,5.0,237.42
+ORD2009,67.0,Jeddah,Tablet,Mobile,807.87,5,Bank Transfer,4.0,4039.35
+ORD2010,,Abha,Webcam,Accessories,148.67,2,Card,4.0,297.34
+ORD2011,34.0,Dammam,Keyboard,Accessories,63.81,1,Card,3.0,63.81
+ORD2012,45.0,Madinah,Webcam,Accessories,56.91,5,Cash,5.0,284.55
+ORD2013,31.0,Dammam,Keyboard,Accessories,69.68,2,Apple Pay,4.0,139.36
+ORD2014,34.0,Jeddah,Keyboard,Accessories,134.5,2,Apple Pay,3.0,269.0
+ORD2015,49.0,Abha,Webcam,Accessories,36.17,5,Cash,5.0,180.85
+ORD2016,70.0,,Phone,Mobile,891.71,1,Cash,2.0,891.71
+ORD2017,70.0,Dammam,Tablet,Mobile,798.14,2,Bank Transfer,4.0,1596.28
+ORD2018,68.0,Dammam,Phone,Mobile,908.25,3,Cash,5.0,2724.75
+ORD2019,40.0,Jeddah,Phone,Mobile,995.83,3,Bank Transfer,5.0,2987.49
+ORD2020,20.0,Abha,Laptop,Computers,1056.27,3,Bank Transfer,4.0,3168.81
+ORD2021,46.0,Jeddah,Headphones,Audio,85.55,5,Apple Pay,4.0,427.75
+ORD2022,49.0,Riyadh,Headphones,Audio,92.48,4,Card,5.0,369.92
+ORD2023,20.0,Abha,Monitor,Computers,505.53,3,Apple Pay,5.0,1516.59
+ORD2024,49.0,Madinah,Webcam,Accessories,33.66,4,Apple Pay,3.0,134.64
+ORD2025,23.0,Jeddah,Tablet,Mobile,506.69,5,Bank Transfer,3.0,2533.45
+ORD2026,63.0,Madinah,Monitor,Computers,378.47,4,Apple Pay,3.0,1513.88
+ORD2027,49.0,Riyadh,Tablet,Mobile,641.43,5,Bank Transfer,4.0,3207.15
+ORD2028,60.0,Madinah,Monitor,Computers,176.27,3,,5.0,528.81
+ORD2029,56.0,Dammam,Phone,Mobile,794.93,5,Apple Pay,3.0,3974.65
+ORD2030,49.0,Dammam,Phone,Mobile,1162.33,3,Bank Transfer,5.0,3486.99
+ORD2031,19.0,Jeddah,Tablet,Mobile,551.29,4,Card,3.0,2205.16
+ORD2032,62.0,Jeddah,Phone,Mobile,791.33,3,Cash,3.0,2373.99
+ORD2033,31.0,Jeddah,Tablet,Mobile,891.36,1,Card,5.0,891.36
+ORD2034,38.0,Dammam,Mouse,Accessories,84.96,5,Cash,3.0,424.8
+ORD2035,64.0,Dammam,Mouse,Accessories,54.83,3,Cash,2.0,164.49
+ORD2036,51.0,Abha,Phone,Mobile,326.14,2,Bank Transfer,4.0,652.28
+ORD2037,33.0,Abha,Laptop,Computers,1651.7,3,Card,4.0,4955.1
+ORD2038,70.0,Dammam,Mouse,Accessories,74.18,5,Card,5.0,370.9
+ORD2039,56.0,Dammam,Mouse,Accessories,75.89,2,Cash,4.0,151.78
+ORD2040,42.0,Dammam,Tablet,Mobile,773.01,3,Cash,3.0,2319.03
+ORD2041,21.0,Abha,Tablet,Mobile,716.39,1,Bank Transfer,4.0,716.39
+ORD2042,22.0,Jeddah,Headphones,Audio,138.59,2,Cash,,277.18
+ORD2043,,Jeddah,Keyboard,Accessories,102.35,1,Bank Transfer,1.0,102.35
+ORD2044,38.0,Dammam,Tablet,Mobile,789.51,3,Cash,2.0,2368.53
+ORD2045,59.0,Abha,Phone,Mobile,1065.92,3,Apple Pay,5.0,3197.76
+ORD2046,53.0,Abha,Mouse,Accessories,37.95,4,Card,4.0,151.8
+ORD2047,51.0,Dammam,Laptop,Computers,787.29,3,Bank Transfer,3.0,2361.87
+ORD2048,60.0,Jeddah,Monitor,Computers,396.11,4,Cash,4.0,1584.44
+ORD2049,20.0,Madinah,Headphones,Audio,148.46,5,Bank Transfer,4.0,742.3
+ORD2050,55.0,Madinah,Monitor,Computers,595.56,2,Apple Pay,4.0,1191.12
+ORD2051,24.0,Riyadh,Headphones,Audio,160.6,1,Apple Pay,4.0,160.6
+ORD2052,48.0,Riyadh,Phone,Mobile,729.25,3,Card,5.0,2187.75
+ORD2053,28.0,Abha,Keyboard,Accessories,78.42,1,Card,4.0,78.42
+ORD2054,61.0,Dammam,Phone,Mobile,993.86,2,Apple Pay,5.0,1987.72
+ORD2055,54.0,Abha,Laptop,Computers,1740.11,4,Apple Pay,3.0,6960.44
+ORD2056,45.0,Abha,Monitor,Computers,188.91,2,Apple Pay,3.0,377.82
+ORD2057,21.0,Riyadh,Monitor,Computers,470.39,2,Bank Transfer,5.0,940.78
+ORD2058,59.0,Madinah,Headphones,Audio,70.03,5,Apple Pay,4.0,350.15
+ORD2059,47.0,Riyadh,Monitor,Computers,283.74,3,Apple Pay,5.0,851.22
+ORD2060,50.0,Riyadh,Webcam,Accessories,155.5,1,Bank Transfer,5.0,155.5
+ORD2061,45.0,Dammam,Webcam,Accessories,90.19,5,Apple Pay,5.0,450.95
+ORD2062,66.0,Madinah,Monitor,Computers,406.6,5,Card,5.0,2033.0
+ORD2063,34.0,Jeddah,Headphones,Audio,220.57,2,Bank Transfer,2.0,441.14
+ORD2064,20.0,Riyadh,Monitor,Computers,484.34,4,Card,4.0,1937.36
+ORD2065,21.0,Dammam,Laptop,Computers,692.51,5,Card,4.0,3462.55
+ORD2066,29.0,Dammam,Phone,Mobile,1093.76,5,Card,5.0,5468.8
+ORD2067,48.0,,Webcam,Accessories,50.46,5,Card,5.0,252.3
+ORD2068,45.0,Abha,Tablet,Mobile,743.06,1,Card,4.0,743.06
+ORD2069,27.0,Dammam,Headphones,Audio,202.08,4,Card,4.0,808.32
+ORD2070,33.0,Abha,Headphones,Audio,158.48,5,Cash,1.0,792.4
+ORD2071,40.0,Abha,Phone,Mobile,1132.59,5,Apple Pay,4.0,5662.95
+ORD2072,41.0,Jeddah,Laptop,Computers,960.36,1,Card,1.0,960.36
+ORD2073,47.0,Dammam,Phone,Mobile,1023.47,1,Card,5.0,1023.47
+ORD2074,67.0,Riyadh,Laptop,Computers,1449.3,5,Bank Transfer,3.0,7246.5
+ORD2075,59.0,Dammam,Laptop,Computers,920.86,4,Bank Transfer,3.0,3683.44
+ORD2076,39.0,Madinah,Keyboard,Accessories,172.53,1,Cash,4.0,172.53
+ORD2077,31.0,Abha,Keyboard,Accessories,113.67,3,Card,,341.01
+ORD2078,51.0,Abha,Mouse,Accessories,62.48,1,Bank Transfer,4.0,62.48
+ORD2079,52.0,Dammam,Webcam,Accessories,46.22,4,Card,5.0,184.88
+ORD2080,43.0,Riyadh,Headphones,Audio,141.94,4,Bank Transfer,3.0,567.76
+ORD2081,44.0,Madinah,Keyboard,Accessories,57.6,2,Cash,5.0,115.2
+ORD2082,63.0,Madinah,Keyboard,Accessories,116.08,2,Bank Transfer,5.0,232.16
+ORD2083,37.0,Riyadh,Mouse,Accessories,42.45,5,Card,5.0,212.25
+ORD2084,68.0,Dammam,Monitor,Computers,209.5,2,Apple Pay,5.0,419.0
+ORD2085,57.0,Abha,Monitor,Computers,304.04,5,Cash,3.0,1520.2
+ORD2086,66.0,Riyadh,Monitor,Computers,233.69,3,Cash,5.0,701.07
+ORD2087,41.0,Dammam,Monitor,Computers,541.1,4,Apple Pay,3.0,2164.4
+ORD2088,31.0,Jeddah,Mouse,Accessories,81.25,1,Bank Transfer,4.0,81.25
+ORD2089,,Madinah,Webcam,Accessories,47.21,1,Cash,4.0,47.21
+ORD2090,68.0,Madinah,Laptop,Computers,1512.92,2,Apple Pay,5.0,3025.84
+ORD2091,55.0,Jeddah,Mouse,Accessories,15.03,5,Card,4.0,75.15
+ORD2092,33.0,Riyadh,Keyboard,Accessories,57.2,2,Apple Pay,1.0,114.4
+ORD2093,32.0,Riyadh,Phone,Mobile,867.59,2,Cash,1.0,1735.18
+ORD2094,38.0,Abha,Phone,Mobile,932.33,4,Bank Transfer,4.0,3729.32
+ORD2095,28.0,Madinah,Monitor,Computers,374.43,1,Card,4.0,374.43
+ORD2096,45.0,Madinah,Keyboard,Accessories,74.02,1,Apple Pay,5.0,74.02
+ORD2097,57.0,Madinah,Phone,Mobile,620.22,3,Bank Transfer,5.0,1860.66
+ORD2098,67.0,Abha,Webcam,Accessories,140.94,3,Cash,2.0,422.82
+ORD2099,53.0,Riyadh,Monitor,Computers,391.03,2,Bank Transfer,4.0,782.06
+ORD2100,58.0,Dammam,Headphones,Audio,265.54,2,Cash,4.0,531.08
+ORD2101,67.0,Abha,Mouse,Accessories,95.18,1,Card,5.0,95.18
+ORD2102,37.0,Jeddah,Monitor,Computers,615.94,1,,4.0,615.94
+ORD2103,48.0,Madinah,Monitor,Computers,381.31,5,Apple Pay,4.0,1906.55
+ORD2104,27.0,Abha,Phone,Mobile,820.49,1,Bank Transfer,2.0,820.49
+ORD2105,34.0,Jeddah,Webcam,Accessories,52.97,4,Cash,5.0,211.88
+ORD2106,29.0,Madinah,Mouse,Accessories,96.06,1,Bank Transfer,5.0,96.06
+ORD2107,55.0,Dammam,Tablet,Mobile,890.5,1,Cash,4.0,890.5
+ORD2108,39.0,Dammam,Mouse,Accessories,84.64,2,Apple Pay,5.0,169.28
+ORD2109,42.0,Jeddah,Mouse,Accessories,58.41,2,Cash,4.0,116.82
+ORD2110,66.0,Madinah,Tablet,Mobile,240.15,3,Cash,1.0,720.45
+ORD2111,20.0,Riyadh,Phone,Mobile,548.19,4,Apple Pay,5.0,2192.76
+ORD2112,57.0,Abha,Tablet,Mobile,256.4,5,Bank Transfer,2.0,1282.0
+ORD2113,41.0,Madinah,Monitor,Computers,228.6,1,Card,5.0,228.6
+ORD2114,67.0,Madinah,Monitor,Computers,292.52,2,Bank Transfer,2.0,585.04
+ORD2115,63.0,Riyadh,Tablet,Mobile,541.16,5,Bank Transfer,3.0,2705.8
+ORD2116,54.0,Abha,Tablet,Mobile,812.39,1,Card,5.0,812.39
+ORD2117,61.0,Madinah,Laptop,Computers,950.16,1,Bank Transfer,4.0,950.16
+ORD2118,54.0,Abha,Monitor,Computers,400.97,5,Bank Transfer,4.0,2004.85
+ORD2119,63.0,Madinah,Headphones,Audio,257.06,4,Apple Pay,5.0,1028.24
+ORD2120,28.0,Riyadh,Headphones,Audio,62.56,5,Cash,5.0,312.8
